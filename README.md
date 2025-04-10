@@ -1,1 +1,1 @@
-MinT: Multi-scale Implicit Neural Transformer for Deraining
+## MinT: Multi-scale Implicit Neural Transformer for Deraining
